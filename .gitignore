@@ -1,2 +1,5 @@
-thumbs.db
+!thumbs.db
 build/car.class
+*.obj
+logs/*.log
+!logs/special.log
